@@ -1,0 +1,7664 @@
+fileFormatVersion: 2
+guid: 27c7c98f26ff36046aa655f53359835c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GameUIFREE_0
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 1862
+        width: 613
+        height: 887
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6820dfc6dcc3f94eb35561f6d0d3178
+      internalID: 1211427413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_1
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 1862
+        width: 616
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3069fe399e2bad4cae742d8d66227e6
+      internalID: -1400895397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_2
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 2511
+        width: 397
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef35b61401a08641b095e499cbb90a9
+      internalID: 2018958091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_3
+      rect:
+        serializedVersion: 2
+        x: 2886
+        y: 2569
+        width: 104
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ddaef48ecff2743b28e364a7aaa0f0
+      internalID: -761363868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_4
+      rect:
+        serializedVersion: 2
+        x: 2985
+        y: 2571
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9f718952d147043bf70a05cb7cc4ef
+      internalID: 1219121483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_5
+      rect:
+        serializedVersion: 2
+        x: 3151
+        y: 2511
+        width: 394
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdacf41f7d778c349b4567e35df58683
+      internalID: 1466068104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_6
+      rect:
+        serializedVersion: 2
+        x: 3651
+        y: 2569
+        width: 132
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888d7401cf5b465459265497a917977b
+      internalID: -357703353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_7
+      rect:
+        serializedVersion: 2
+        x: 3913
+        y: 2511
+        width: 397
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ff20b3d7403cd4bb8ef8ded5e47622
+      internalID: -2015723384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_8
+      rect:
+        serializedVersion: 2
+        x: 4392
+        y: 2569
+        width: 132
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9174ce12659093f40aec8e8a6b7a40a6
+      internalID: -1603657635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_9
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 2456
+        width: 457
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9412e93f665f242b136d055b61bdef
+      internalID: -494470302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_10
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 2362
+        width: 397
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9aad2d60f557134ea1ad7f4bf49f6bd
+      internalID: 731344929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_11
+      rect:
+        serializedVersion: 2
+        x: 2845
+        y: 2420
+        width: 219
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3d2b858c4a57547816272d82e986d5
+      internalID: 315000633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_12
+      rect:
+        serializedVersion: 2
+        x: 3151
+        y: 2362
+        width: 394
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9edb5f33837d840970b25679dfd8d5
+      internalID: -1929105490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_13
+      rect:
+        serializedVersion: 2
+        x: 3608
+        y: 2420
+        width: 219
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac82afd725582a94c8565b4aa1ee3889
+      internalID: 625905078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_14
+      rect:
+        serializedVersion: 2
+        x: 3913
+        y: 2362
+        width: 397
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc38847b932d6845a513a6b58677389
+      internalID: 1558312731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_15
+      rect:
+        serializedVersion: 2
+        x: 4349
+        y: 2420
+        width: 219
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27a901a9a72281468abad63936574eb
+      internalID: -1423224888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_16
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 2353
+        width: 70
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113268152aaa18540a2f4ff35f5a058f
+      internalID: 1697278658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_17
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 2369
+        width: 453
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8da4f427b2ed040aa4f1774b03afde
+      internalID: -1085980762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_18
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 2259
+        width: 73
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0761cab531167034bb3099bc84da91ca
+      internalID: -1679715324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_19
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 2283
+        width: 453
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51a0040213bb3c4790096dd55d8c870
+      internalID: -1292822797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_20
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 2213
+        width: 397
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d97c974b40cf240b08e76cacd21279
+      internalID: 1669574338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_21
+      rect:
+        serializedVersion: 2
+        x: 2838
+        y: 2271
+        width: 234
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab13fdc0a333759448502a1329e1bde9
+      internalID: 1577130670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_22
+      rect:
+        serializedVersion: 2
+        x: 3151
+        y: 2211
+        width: 394
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484d86d020ce9f947a39349060b5c578
+      internalID: 576881987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_23
+      rect:
+        serializedVersion: 2
+        x: 3601
+        y: 2271
+        width: 132
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838d9324339535845bb9d8e3e7b476e0
+      internalID: -1056692884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_24
+      rect:
+        serializedVersion: 2
+        x: 3728
+        y: 2271
+        width: 106
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2f6ef83d7c0174a9277d725ea20f52
+      internalID: -1485220259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_25
+      rect:
+        serializedVersion: 2
+        x: 3913
+        y: 2211
+        width: 397
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84f2b010b762bf44897c12f590acf78
+      internalID: 2060375885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_26
+      rect:
+        serializedVersion: 2
+        x: 4342
+        y: 2271
+        width: 132
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca164db2207cd8a419d55aab418e260d
+      internalID: 1344752735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_27
+      rect:
+        serializedVersion: 2
+        x: 4469
+        y: 2271
+        width: 106
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23534d33df3bd414cb21836a61a9f93c
+      internalID: 1428780637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_28
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 2141
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876401eb55eb49e45af18d94d9a68b02
+      internalID: 1033270465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_29
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 2141
+        width: 68
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531708828167a7b488730e37374c7b02
+      internalID: -123721846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_30
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 2158
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d14f9698d0313419a2abd16f6593e3
+      internalID: -1419637403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_31
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 2136
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15cfcfdd347152142890745b31ec7396
+      internalID: 255136999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_32
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 2163
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf37c2700dbef547aedf0a1362cbbb5
+      internalID: 894239242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_33
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 2138
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6849f478bc8784b8c4e575cfb03f60
+      internalID: 860109697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_34
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 2064
+        width: 397
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6f7e4d93a04e240be10e7707fb951e
+      internalID: 336422382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_35
+      rect:
+        serializedVersion: 2
+        x: 2833
+        y: 2122
+        width: 241
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a067fcd50a0c0545a2b4994cdab2b4b
+      internalID: 1462085167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_36
+      rect:
+        serializedVersion: 2
+        x: 3151
+        y: 2064
+        width: 394
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b47ef9ca682c96499bb5e741c2890b7
+      internalID: -614043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_37
+      rect:
+        serializedVersion: 2
+        x: 3598
+        y: 2122
+        width: 238
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0add2a16b537acc43a3567fd49d5d0d6
+      internalID: -1507743752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_38
+      rect:
+        serializedVersion: 2
+        x: 3913
+        y: 2064
+        width: 397
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7981c52445c83054e82c15d87ef065a6
+      internalID: 250426942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_39
+      rect:
+        serializedVersion: 2
+        x: 4339
+        y: 2122
+        width: 238
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3747176509e93df40b9166df72dadc55
+      internalID: 79048328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_40
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 1915
+        width: 397
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e635d3dfbe1a34ea046206924322d4
+      internalID: -273555430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_41
+      rect:
+        serializedVersion: 2
+        x: 2894
+        y: 1970
+        width: 120
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e500201512029c74dbf087a4bf830f6e
+      internalID: -452398283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_42
+      rect:
+        serializedVersion: 2
+        x: 3151
+        y: 1915
+        width: 394
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c87bd9a359ff764d87e4906948d63a3
+      internalID: -825369903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_43
+      rect:
+        serializedVersion: 2
+        x: 3658
+        y: 1970
+        width: 118
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6a17864dc6a7b4d84d5ed392514912
+      internalID: 343961132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_44
+      rect:
+        serializedVersion: 2
+        x: 3913
+        y: 1915
+        width: 397
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd92749c4912fb4a9bcee53594dada3
+      internalID: 586384504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_45
+      rect:
+        serializedVersion: 2
+        x: 4399
+        y: 1970
+        width: 118
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9136863ff710543a89abb0bea8cc4e
+      internalID: 1810886232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_46
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1638
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d5ced9c2b32c240ad5ecf7637657ab
+      internalID: 1437236423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_47
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1638
+        width: 397
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196b0483d3e80bf47a5de2e1640ec72d
+      internalID: 2068675293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_48
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 1638
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a697cbf0e898a9042b3e481ab825f5d4
+      internalID: 327400573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_49
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 1638
+        width: 394
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e675ba24518235449362e9f5f28d667
+      internalID: 1875125426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_50
+      rect:
+        serializedVersion: 2
+        x: 3389
+        y: 1643
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043c1b064833e904f81108f578ced164
+      internalID: 1142051640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_51
+      rect:
+        serializedVersion: 2
+        x: 3567
+        y: 1643
+        width: 397
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c230ea1588bfa2f47a518105942c4b9a
+      internalID: -1449011346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_52
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1547
+        width: 24
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801ff9c82537d60438003bb0b34c099e
+      internalID: 2106964486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_53
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1547
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474ae8f02776a734ca0e4199192744f2
+      internalID: 1587423003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_54
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1549
+        width: 74
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c711d74255682004fb64c1c7ded78a0f
+      internalID: -1202628129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_55
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1544
+        width: 65
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2e618789fcc1e468f95741a353434b
+      internalID: 1130597939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_56
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1544
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10bef0d1d7e94e24188b3335f1f75eb3
+      internalID: 1367204706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_57
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1544
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa77a15137d1864f82766011bce28a5
+      internalID: 1446878765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_58
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 1542
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837d299fb3d48054b83d0d818bc8bcdc
+      internalID: -1811763036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_59
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 1549
+        width: 77
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4376b41d34dd52c4eb1172083ee761f2
+      internalID: 1931141538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_60
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1568
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699276d8f9e093b43949c63232446e0e
+      internalID: -2021994843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_61
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1568
+        width: 215
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4631fcc052378464a88e3e1e121dcaf5
+      internalID: -2050483798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_62
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 1549
+        width: 24
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45069b0e31b8f8d4f9af6a99d3a1deb3
+      internalID: -1223492903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_63
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 1549
+        width: 21
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c7db3cb27455a4aa0dcca3b99a7e2f
+      internalID: 1115564748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_64
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 1549
+        width: 75
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a853ad548a624f449fa1dc542c23e06
+      internalID: -863279083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_65
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 1544
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a731c8e6a0f070b4ca66c4cc3b35ac70
+      internalID: 61086039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_66
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 1544
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5455c3ce0eac51b458aaad66d0f9ae99
+      internalID: -375009723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_67
+      rect:
+        serializedVersion: 2
+        x: 2393
+        y: 1544
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d20712806285244f9fd1fe6e7b00634
+      internalID: 766448839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_68
+      rect:
+        serializedVersion: 2
+        x: 2533
+        y: 1542
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c65d706cb069074a8a0c8d612d26162
+      internalID: -1949422219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_69
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 1549
+        width: 77
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f23eab8ebd43e34784f56dbb5ca316d
+      internalID: -140458011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_70
+      rect:
+        serializedVersion: 2
+        x: 2867
+        y: 1568
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab7b95df48ab7a4d955b46c7553a903
+      internalID: -2115027955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_71
+      rect:
+        serializedVersion: 2
+        x: 2906
+        y: 1568
+        width: 216
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407007711e2d7c248b67d828e2e3269c
+      internalID: 1427843707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_72
+      rect:
+        serializedVersion: 2
+        x: 3437
+        y: 1542
+        width: 22
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c43e2c8b72da374c9b1a86859865f6f
+      internalID: -1159537816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_73
+      rect:
+        serializedVersion: 2
+        x: 3464
+        y: 1542
+        width: 21
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77a8c5218722164698a1ff7cab70682
+      internalID: 1321052767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_74
+      rect:
+        serializedVersion: 2
+        x: 3550
+        y: 1549
+        width: 75
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09bc8d5854435f4da1da9ba478a440f
+      internalID: -995391605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_75
+      rect:
+        serializedVersion: 2
+        x: 3690
+        y: 1544
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a90919740a6314fa9f4dd21153c026
+      internalID: -1954893424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_76
+      rect:
+        serializedVersion: 2
+        x: 3822
+        y: 1544
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328345c4f1aa24b4ab94fefbddeb1800
+      internalID: -505052409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_77
+      rect:
+        serializedVersion: 2
+        x: 3959
+        y: 1544
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9dfb92a8db76a34e999ff7c1a67af8e
+      internalID: -1713930976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_78
+      rect:
+        serializedVersion: 2
+        x: 4099
+        y: 1542
+        width: 69
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa845dbda01547443957afaf718152b7
+      internalID: 174499016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_79
+      rect:
+        serializedVersion: 2
+        x: 4236
+        y: 1549
+        width: 74
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b984d9ad7b6544f8967ff1165e7af7
+      internalID: -1094113972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_80
+      rect:
+        serializedVersion: 2
+        x: 4433
+        y: 1568
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec87af9e10dc5b41b1b11e1e3f05124
+      internalID: 817863094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_81
+      rect:
+        serializedVersion: 2
+        x: 4471
+        y: 1568
+        width: 217
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f52bcbd7119fe4d87bc3dc34153d67
+      internalID: 481665563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_82
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1438
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ace7871d75bc0949886044738f3c67e
+      internalID: 691822626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_83
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1438
+        width: 70
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f25a7a937d763e42bb94474d7c8e4ab
+      internalID: -1595384715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_84
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1463
+        width: 77
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8faf20d1543376b409ab187e29c42120
+      internalID: 763037703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_85
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 1441
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8304b9ac307f74cae790eaa2a50cdc
+      internalID: -1902964179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_86
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1441
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bfa4036a1b16154e832d8ead55eda9d
+      internalID: 137786150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_87
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1441
+        width: 84
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32998a194ddede14aa8d47437930f09d
+      internalID: 2094306990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_88
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 1438
+        width: 68
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235aefd6ad77ea7409a8672d7e1516f0
+      internalID: 417629287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_89
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 1422
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d5fae278a8f3c42b99a8922e541f25
+      internalID: 2003806080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_90
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 1422
+        width: 113
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10228ac162cbc5f40ac297552f0ae0ef
+      internalID: -1037064911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_91
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 1438
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737e930a2070a0741aa10f9fb0084370
+      internalID: 1667183503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_92
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 1438
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37fb43a97d12d5a4aa36cb04fd98f1eb
+      internalID: -1596829699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_93
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 1463
+        width: 79
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3f662fb69754944a7a442c769af161
+      internalID: 791111175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_94
+      rect:
+        serializedVersion: 2
+        x: 2273
+        y: 1441
+        width: 65
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295e0265e128e784f9238288226662ed
+      internalID: 1459908253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_95
+      rect:
+        serializedVersion: 2
+        x: 2405
+        y: 1441
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493a00f065a61ae4fa4d0fa71bb56eb4
+      internalID: -1203291792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_96
+      rect:
+        serializedVersion: 2
+        x: 2521
+        y: 1441
+        width: 86
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dae95d6aa970374c99689bf30632a35
+      internalID: -1113268331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_97
+      rect:
+        serializedVersion: 2
+        x: 2672
+        y: 1441
+        width: 70
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa351fe969c8887409668265f5c500ed
+      internalID: -555056901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_98
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 1422
+        width: 149
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a0dd97a3aec904f873b24983825eae
+      internalID: 396019993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_99
+      rect:
+        serializedVersion: 2
+        x: 3420
+        y: 1438
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff016c45f2e03647b886f8f50e11ec4
+      internalID: 1931120428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_100
+      rect:
+        serializedVersion: 2
+        x: 3560
+        y: 1438
+        width: 70
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5055038c3693f0478cc74c632db6e61
+      internalID: -1686843118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_101
+      rect:
+        serializedVersion: 2
+        x: 3695
+        y: 1463
+        width: 79
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf7db2cb849745418317fee4e06bb81
+      internalID: -1621342367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_102
+      rect:
+        serializedVersion: 2
+        x: 3839
+        y: 1441
+        width: 65
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb255db12e5fd24d87b39e7c12eabb5
+      internalID: 1337499664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_103
+      rect:
+        serializedVersion: 2
+        x: 3971
+        y: 1441
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60509d9eb9abfc8499769c75da5a62d2
+      internalID: -796521851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_104
+      rect:
+        serializedVersion: 2
+        x: 4087
+        y: 1441
+        width: 86
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81637dd525b8bc14ca01b1d60a387c4c
+      internalID: -541423402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_105
+      rect:
+        serializedVersion: 2
+        x: 4238
+        y: 1441
+        width: 70
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1838d8113e22d914fa0dc9fb0dfcf241
+      internalID: -384766155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_106
+      rect:
+        serializedVersion: 2
+        x: 4486
+        y: 1422
+        width: 149
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60508b275f1b27439204a427da07c2e
+      internalID: -512240122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_107
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1333
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e99510e125a2343be074f66e5c4a8b
+      internalID: -121085901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_108
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1333
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7cdc1d5d7ad644bb6b2f76515d0da2
+      internalID: -1532289826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_109
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1342
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c47641b5311a3249930d24071876fa5
+      internalID: 1387364244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_110
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1342
+        width: 67
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3087256165e67f44803bdc38851f4b3
+      internalID: -1302979557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_111
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1333
+        width: 75
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e533e9889b5c04d45bac08adf401a004
+      internalID: 259479489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_112
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 1330
+        width: 74
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c0b0458a0bcad46b4afcdc2b92c60a
+      internalID: -318685742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_113
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 1333
+        width: 55
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16946cb56eca7d4aa514dfb302aa4d5
+      internalID: 515697915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_114
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 1333
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3077bdc024c2d48a84e9a977c5846d
+      internalID: -549327613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_115
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 1333
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101800f735190df4ea75e8fa775bc90a
+      internalID: 1397573311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_116
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 1342
+        width: 67
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a6a0fb6870d4d46badf655d96e22dd
+      internalID: -1583611203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_117
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 1342
+        width: 67
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9793c5c2a1d2054e911fea4953e674c
+      internalID: -1280624613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_118
+      rect:
+        serializedVersion: 2
+        x: 2384
+        y: 1333
+        width: 72
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb664bc968d07e4daf511ee3e3d9110
+      internalID: -508992541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_119
+      rect:
+        serializedVersion: 2
+        x: 2528
+        y: 1330
+        width: 75
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43aa65e6db9074469a685108bbb5359
+      internalID: 1587632803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_120
+      rect:
+        serializedVersion: 2
+        x: 2675
+        y: 1333
+        width: 57
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282f0bb004f5ef14986f36d09ebc4ef5
+      internalID: -207019082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_121
+      rect:
+        serializedVersion: 2
+        x: 3430
+        y: 1333
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d255f1feb8c04e4897c1c56111c60f3
+      internalID: 1262292659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_122
+      rect:
+        serializedVersion: 2
+        x: 3550
+        y: 1333
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1b71da60e8ff4448727afce0b3c2fd
+      internalID: -1362751044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_123
+      rect:
+        serializedVersion: 2
+        x: 3670
+        y: 1342
+        width: 68
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aadb16897cfb4d4486ce7a6e705b377
+      internalID: 1340178967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_124
+      rect:
+        serializedVersion: 2
+        x: 3810
+        y: 1342
+        width: 67
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39f30a837e6f9b46a378b11bce7995f
+      internalID: -1316419868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_125
+      rect:
+        serializedVersion: 2
+        x: 3949
+        y: 1333
+        width: 73
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7fde1b0ef99dd4b894f6c96d0337d1
+      internalID: 558685729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_126
+      rect:
+        serializedVersion: 2
+        x: 4094
+        y: 1330
+        width: 74
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8a612f0707b2c4289cafa921b23e4f
+      internalID: -1527253621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_127
+      rect:
+        serializedVersion: 2
+        x: 4240
+        y: 1333
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8833583f592eb8446a8c88f4cef45534
+      internalID: -60247265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_128
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1215
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba076cb27dee0254ea0964287d73ddb2
+      internalID: 1506977129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_129
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1215
+        width: 51
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d1ffffff8aa534795d51b9288ecc01
+      internalID: 1767507915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_130
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1229
+        width: 81
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ab1623e2e3f1a49aa87159389b5ad2
+      internalID: -308803009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_131
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1229
+        width: 80
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a98cecac4961847a29a29942c52635
+      internalID: -1043625154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_132
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1220
+        width: 77
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19823a88b3aa7614fb980cc58adf4e09
+      internalID: 2061932789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_133
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 1220
+        width: 67
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc560bb41f10424c9cef81d38b96eb2
+      internalID: 1190678617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_134
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 1224
+        width: 80
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875725ac68bcc7f4db822189552597d7
+      internalID: 1949149354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_135
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 1272
+        width: 238
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cae067b2dc1fd748a11a60f17cbe6d5
+      internalID: 208702207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_136
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 1215
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a9717edd77a24429db518c01c5e942
+      internalID: 1722140206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_137
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 1215
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79e572736aebf540968232733eb34ec
+      internalID: -512393655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_138
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 1229
+        width: 79
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1155325b56c324288914739b4b5d51
+      internalID: -1694400289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_139
+      rect:
+        serializedVersion: 2
+        x: 2242
+        y: 1229
+        width: 79
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40977dca1104da94c9979ddcb7f0059f
+      internalID: 112175650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_140
+      rect:
+        serializedVersion: 2
+        x: 2386
+        y: 1220
+        width: 77
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09ae6cab927a804bacd8cc403496ae8
+      internalID: 826678400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_141
+      rect:
+        serializedVersion: 2
+        x: 2528
+        y: 1220
+        width: 67
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ac3ad5d67a4ad44a3af66d7fa156fe
+      internalID: 1161036754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_142
+      rect:
+        serializedVersion: 2
+        x: 2663
+        y: 1224
+        width: 79
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd59ec2202987424db823efdf0bbb3e8
+      internalID: 305370263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_143
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 1272
+        width: 241
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687ac61e5e9f7e54e976c891ef242cf8
+      internalID: -148032765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_144
+      rect:
+        serializedVersion: 2
+        x: 3428
+        y: 1215
+        width: 52
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b75f845e4ecd54e8e7420d44e11d10
+      internalID: -1078350173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_145
+      rect:
+        serializedVersion: 2
+        x: 3545
+        y: 1215
+        width: 51
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ee4af6f45f10247ae0124d2a047325
+      internalID: 306157413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_146
+      rect:
+        serializedVersion: 2
+        x: 3661
+        y: 1229
+        width: 79
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b24bcfb9b47104c92eb9a10c7bdfbd
+      internalID: -2012963563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_147
+      rect:
+        serializedVersion: 2
+        x: 3808
+        y: 1229
+        width: 79
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe72294ae8e32943ba8501928905b6e
+      internalID: 490898774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_148
+      rect:
+        serializedVersion: 2
+        x: 3952
+        y: 1220
+        width: 77
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0575d85e3a6b1f443883f417159a6069
+      internalID: -775026603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_149
+      rect:
+        serializedVersion: 2
+        x: 4094
+        y: 1220
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6f812faad3c7d4a8a6c6310067e746
+      internalID: -1522989701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_150
+      rect:
+        serializedVersion: 2
+        x: 4228
+        y: 1224
+        width: 80
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aff0bb22b1852d4ba5bf8fb5dd55c5d
+      internalID: 1844476466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_151
+      rect:
+        serializedVersion: 2
+        x: 4440
+        y: 1272
+        width: 241
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b93d30ca6777f49a691712a94967d3
+      internalID: 1486185611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_152
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1090
+        width: 65
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b193e77ead54945b384c1afdd49e17
+      internalID: 535288649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_153
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1090
+        width: 65
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ffd985169b3a140aec91f5bd29251f
+      internalID: -1167153671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_154
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1094
+        width: 77
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9cae889e71ea3c47823471fec681a5d
+      internalID: -688808072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_155
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 1094
+        width: 77
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62c7e4935ffb7d4e890fd265848e3fd
+      internalID: -1360999470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_156
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1094
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f35a479188ffdb41ab8c950ef5dfff4
+      internalID: 922222826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_157
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 1094
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b175ea95202549741a87bb45d291e5a7
+      internalID: -1939273707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_158
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 1094
+        width: 74
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961a40adfe13ada49b0e4e41b9dc91e2
+      internalID: 853740244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_159
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 1123
+        width: 120
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a144e0dd3e78f94b9e2bd193471dd5d
+      internalID: 1462849465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_160
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 1123
+        width: 159
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e67f616ced7bac4c84974c9af695c2f
+      internalID: -2086559039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_161
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 1090
+        width: 65
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9315e14aa737b43aaa0ce26803e3f5
+      internalID: 868242199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_162
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 1090
+        width: 65
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c7d30342fe8274cb9b711fadd8d95d
+      internalID: 694288556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_163
+      rect:
+        serializedVersion: 2
+        x: 2126
+        y: 1094
+        width: 77
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ca0cd5a2f1bf94cad85908e72758be
+      internalID: 752519514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_164
+      rect:
+        serializedVersion: 2
+        x: 2271
+        y: 1094
+        width: 74
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0122a6b95d6f21148b844d2979b4e0ef
+      internalID: 2023356722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_165
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 1094
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3b9144305d2dd4daedf10a50c686d0
+      internalID: 904327060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_166
+      rect:
+        serializedVersion: 2
+        x: 2533
+        y: 1094
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f9ecd8aa1f97f4da73c1a124e1fbfd
+      internalID: 408035925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_167
+      rect:
+        serializedVersion: 2
+        x: 2665
+        y: 1094
+        width: 75
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7486194d3655b41bb01eb6a7bc1342
+      internalID: 1366146091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_168
+      rect:
+        serializedVersion: 2
+        x: 2853
+        y: 1123
+        width: 283
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583c9aeae9f6da4469999b5488f9c113
+      internalID: -919229815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_169
+      rect:
+        serializedVersion: 2
+        x: 3428
+        y: 1090
+        width: 64
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e06502b7b9eac94793c0e648c7f24c9
+      internalID: -119022332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_170
+      rect:
+        serializedVersion: 2
+        x: 3560
+        y: 1090
+        width: 65
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c2ab8e79a927941b6c6729f64ccf4c
+      internalID: -1742628490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_171
+      rect:
+        serializedVersion: 2
+        x: 3692
+        y: 1094
+        width: 77
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a35a6feaf742c42b78a4a72693b03c
+      internalID: -673715450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_172
+      rect:
+        serializedVersion: 2
+        x: 3836
+        y: 1094
+        width: 75
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628a43fecab6158488767c74a2975ae6
+      internalID: 2022557824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_173
+      rect:
+        serializedVersion: 2
+        x: 3978
+        y: 1094
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56fad408552cad47866e2f7efa813d2
+      internalID: 266641682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_174
+      rect:
+        serializedVersion: 2
+        x: 4099
+        y: 1094
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d8f5a91a06e9b47b6b4af324cb72eb
+      internalID: 2129481817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_175
+      rect:
+        serializedVersion: 2
+        x: 4231
+        y: 1094
+        width: 74
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da2f3b6c5853ed4db79c51d1d7bbe10
+      internalID: -1965916241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_176
+      rect:
+        serializedVersion: 2
+        x: 4418
+        y: 1123
+        width: 284
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1fcbeec0e845c46b025fee6b25e31c
+      internalID: 581173750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_177
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 974
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b4110ab23a9d1489ee71fecbc779a4
+      internalID: 1611929766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_178
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 981
+        width: 74
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dceea2bcd8319343a2a8c6b37d49a43
+      internalID: 310383461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_179
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 974
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4922f6a23f8eb342b2fd68ed68d62f8
+      internalID: 1637958180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_180
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 974
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b468833717b3ab04c966f2acf9aa5669
+      internalID: -76935699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_181
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 974
+        width: 21
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287e32fce610d814a8ef0049a38e3446
+      internalID: -1912530388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_182
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 974
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68215f0110068794fbb5b877e2d90966
+      internalID: 347668898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_183
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 979
+        width: 77
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753e1ce4c71afb241b237aa362ea365b
+      internalID: 1415863540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_184
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 977
+        width: 212
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c5e297cd4181242ab88b088c571eb1
+      internalID: -1869421411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_185
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 974
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47946dd81574a5f47808103a75a6ff64
+      internalID: 794491113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_186
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 981
+        width: 77
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0763fe3c328f1b443a7c75a7e0abd260
+      internalID: 597934410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_187
+      rect:
+        serializedVersion: 2
+        x: 2146
+        y: 974
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8ddab7c6630044a94fb29ec431cdb9
+      internalID: 375320343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_188
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 974
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5baa371be7c9d14698c5d43101e9162
+      internalID: -1346120373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_189
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 974
+        width: 21
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e2461d9b1aab143bbae23d7d54cd8f
+      internalID: 334992965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_190
+      rect:
+        serializedVersion: 2
+        x: 2528
+        y: 974
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d286723356fad546adf854fcd5d25d1
+      internalID: 522223820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_191
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 979
+        width: 77
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5810eb2ca40cf4cacf4e7038b1155a
+      internalID: -629009200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_192
+      rect:
+        serializedVersion: 2
+        x: 2889
+        y: 977
+        width: 211
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44fb5dd282423b84db41a963403d0606
+      internalID: -1567049895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_193
+      rect:
+        serializedVersion: 2
+        x: 3425
+        y: 974
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9129495ea76ab3b44a5bbc4606b8a4ff
+      internalID: 709175883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_194
+      rect:
+        serializedVersion: 2
+        x: 3560
+        y: 981
+        width: 77
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b861a1ce8ac574a83f196892752485
+      internalID: -899267161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_195
+      rect:
+        serializedVersion: 2
+        x: 3711
+        y: 974
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596bf868ace41e242b2a0089e09733b7
+      internalID: -1747002169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_196
+      rect:
+        serializedVersion: 2
+        x: 3856
+        y: 974
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105755972b61ee64a9174c27ab18b128
+      internalID: -124063185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_197
+      rect:
+        serializedVersion: 2
+        x: 3998
+        y: 974
+        width: 21
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798d740388adb9547b64a0140334aa60
+      internalID: 583226496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_198
+      rect:
+        serializedVersion: 2
+        x: 4094
+        y: 974
+        width: 45
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587f50a0bce2ae24eb5e90bf55ef5b44
+      internalID: 2075830745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_199
+      rect:
+        serializedVersion: 2
+        x: 4214
+        y: 979
+        width: 77
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489f0310a58723e4080e6f0b1aaa4331
+      internalID: -1566204865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_200
+      rect:
+        serializedVersion: 2
+        x: 4455
+        y: 977
+        width: 211
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67296d554bdb9484b9845a824ba30de8
+      internalID: 1857252273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_201
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 777
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe9f85bdfd6b7b43b06d12e133ffe0f
+      internalID: 87353316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_202
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 777
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04b4f0fbbcd02642a441e7ea76a5176
+      internalID: -1236047224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_203
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 777
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e879bcc8796f624fbc1e03b554379b6
+      internalID: -1066902489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_204
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 777
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd0149f8d3e1f94a9e4ea66a2ae8956
+      internalID: -1100393227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_205
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 777
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e4f80425d4b624d8711c3c7f76a1f9
+      internalID: 2096502856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_206
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 777
+        width: 133
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd34f353116911942aea30a3500fbf69
+      internalID: 965475869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_207
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 777
+        width: 129
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b336350a2fed90d40a259172a55fb93b
+      internalID: -548551505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_208
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 777
+        width: 397
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a6a305491052a4d812590f9be0b01b
+      internalID: -1273877836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_209
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 779
+        width: 130
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ffd2c0ba661e44baf72067bc348059
+      internalID: 1315844377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_210
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 779
+        width: 130
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2946db9a2c023e44b96ba124b41e75fa
+      internalID: -1390641092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_211
+      rect:
+        serializedVersion: 2
+        x: 2121
+        y: 779
+        width: 130
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80b24d42e5fdf742a6ce94f6a1d7eac
+      internalID: -1669100241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_212
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 779
+        width: 130
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2564493441edaa24eb60a1408efbbda6
+      internalID: -336169136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_213
+      rect:
+        serializedVersion: 2
+        x: 2417
+        y: 779
+        width: 130
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55bdd5a07db1fc439d883476c8bb6f2
+      internalID: -1897641560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_214
+      rect:
+        serializedVersion: 2
+        x: 2562
+        y: 779
+        width: 130
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643d2ae24f6ee5842bf0d0e9c50a7bdf
+      internalID: 664658908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_215
+      rect:
+        serializedVersion: 2
+        x: 2708
+        y: 779
+        width: 130
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2aaa3c5bce44d4cab6fc2b3b75f3d0
+      internalID: -1058981876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_216
+      rect:
+        serializedVersion: 2
+        x: 2872
+        y: 779
+        width: 397
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0d6f4cf4acf4f4193d69e417e31adc
+      internalID: 19066882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_217
+      rect:
+        serializedVersion: 2
+        x: 3389
+        y: 779
+        width: 130
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e284362bf14dbbd4088835500ef5e415
+      internalID: -2086113455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_218
+      rect:
+        serializedVersion: 2
+        x: 3536
+        y: 779
+        width: 130
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d7e5f671d8e8349ab8af3747fcbc9b
+      internalID: 1188450181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_219
+      rect:
+        serializedVersion: 2
+        x: 3682
+        y: 779
+        width: 130
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e89116739b05d4eb0671e271d27492
+      internalID: -1165060624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_220
+      rect:
+        serializedVersion: 2
+        x: 3829
+        y: 779
+        width: 130
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e25ce7ff8d696c43a9e30d5a2afdcbd
+      internalID: 309129829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_221
+      rect:
+        serializedVersion: 2
+        x: 3974
+        y: 779
+        width: 129
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5e5423127b4d8458078d84ade3f7fc
+      internalID: -1790885892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_222
+      rect:
+        serializedVersion: 2
+        x: 4123
+        y: 779
+        width: 130
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e3fbb1431fb304e938d0babb92ed50
+      internalID: 1819850513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_223
+      rect:
+        serializedVersion: 2
+        x: 4267
+        y: 779
+        width: 130
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca07dcc66eec9043b3d7da8215377c2
+      internalID: -1357943560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_224
+      rect:
+        serializedVersion: 2
+        x: 4471
+        y: 779
+        width: 397
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f9144a18b3f1b40b0744d903c8c409
+      internalID: -1066656217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_225
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 633
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e327727168cbb3949aacb9a5b40640ec
+      internalID: 1758912574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_226
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 633
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c3812612bf60a4cbabc725b3d1bb32
+      internalID: 1980908858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_227
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 633
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5259936f71626f04b9ff45fc48070cec
+      internalID: 1878324517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_228
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 633
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b26f6fe61e14d7459ac19ee7e6cd0a9
+      internalID: 699418719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_229
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 633
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a26f9dbd4dc634fb2aeabe2a146c08
+      internalID: -425379048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_230
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 633
+        width: 133
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b22bbfc7059de43927bf0125a28f82
+      internalID: -722963239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_231
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 633
+        width: 129
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f154276f1c39b4495ca2d5b20f3cc1
+      internalID: 562883100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_232
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 630
+        width: 397
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b856626946992a4589e3bbf06bcf645
+      internalID: 1733008792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_233
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 637
+        width: 130
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0013823d5064d34d90a6728e6cb895c
+      internalID: -1385174325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_234
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 637
+        width: 130
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594431312ee8f9146a65f5fc5642a07c
+      internalID: 1124558424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_235
+      rect:
+        serializedVersion: 2
+        x: 2121
+        y: 637
+        width: 130
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb8738ae56c320428a33a4075c12351
+      internalID: 1052926035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_236
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 637
+        width: 130
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398ab10431e92d64cba2fa437705ced8
+      internalID: 1255278207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_237
+      rect:
+        serializedVersion: 2
+        x: 2417
+        y: 637
+        width: 130
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39b168c8b29994448159e2b88dec6ba
+      internalID: -1585734744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_238
+      rect:
+        serializedVersion: 2
+        x: 2562
+        y: 637
+        width: 130
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c52b25883d15348ac7b51558a1d3a7
+      internalID: -762288224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_239
+      rect:
+        serializedVersion: 2
+        x: 2708
+        y: 637
+        width: 130
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e96a34b0e5d1e4d9143132d9330463
+      internalID: 314647119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_240
+      rect:
+        serializedVersion: 2
+        x: 2872
+        y: 630
+        width: 397
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1e1e5f82b4275479833adc99adab2c
+      internalID: 196635683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_241
+      rect:
+        serializedVersion: 2
+        x: 3389
+        y: 637
+        width: 130
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147790c0def8a4145a54f098d4b3049d
+      internalID: -552243060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_242
+      rect:
+        serializedVersion: 2
+        x: 3536
+        y: 637
+        width: 130
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5323866d729d9784790d26e3130159cf
+      internalID: 220855108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_243
+      rect:
+        serializedVersion: 2
+        x: 3682
+        y: 637
+        width: 130
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1199971b31a04af4e8b769754f771b65
+      internalID: 1554199532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_244
+      rect:
+        serializedVersion: 2
+        x: 3829
+        y: 637
+        width: 130
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d290a78df15f20e498e84f747b1838ab
+      internalID: 905037660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_245
+      rect:
+        serializedVersion: 2
+        x: 3974
+        y: 637
+        width: 129
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a030898abb20e741b90f8c11e897dd5
+      internalID: -1261169124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_246
+      rect:
+        serializedVersion: 2
+        x: 4123
+        y: 637
+        width: 130
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a56fb1e52bdf645972bf97eda9cf20
+      internalID: -1297474542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_247
+      rect:
+        serializedVersion: 2
+        x: 4267
+        y: 637
+        width: 130
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c8911762725304d97e33598af56515
+      internalID: 424202234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_248
+      rect:
+        serializedVersion: 2
+        x: 4471
+        y: 633
+        width: 397
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b6f250790c61746ae7317feb095b7f
+      internalID: 1783209003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_249
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 491
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7905adae491bf78498f29089b4369b76
+      internalID: -1984824519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_250
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 491
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46be52e42f8fbfb449d01e6ebb553792
+      internalID: -36276919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_251
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 491
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e873c62fcb0add4794ee4f6c163d997
+      internalID: -2006163468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_252
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 491
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b605f632cb63024a8666e4a932e8e05
+      internalID: 1231313335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_253
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 491
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d735ffb07b7dc47bdb190be9bec328
+      internalID: 1728833387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_254
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 491
+        width: 133
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0614d3ae7934c64cbcf941b2ce76d73
+      internalID: -241370717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_255
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 491
+        width: 129
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80baf13189978842bc7dc1f907ed52c
+      internalID: -1030763834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_256
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 481
+        width: 397
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29532049fc4b2b4da6383f549b0eea6
+      internalID: 117202718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_257
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 496
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad7c394aa2721f42914ae68a28545de
+      internalID: 1253132661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_258
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 496
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53c9f5e4cccae14cb664ca1313f1557
+      internalID: 773698665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_259
+      rect:
+        serializedVersion: 2
+        x: 2121
+        y: 496
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621363fdf3df52145aaab9d9efc1a8ac
+      internalID: 999900582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_260
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 496
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3422b39fadee99240a3f356f5364b8b7
+      internalID: -1905490864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_261
+      rect:
+        serializedVersion: 2
+        x: 2417
+        y: 496
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c65c5eff28b744b8e1d9ef5aa3e8cb
+      internalID: -1369011539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_262
+      rect:
+        serializedVersion: 2
+        x: 2562
+        y: 496
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa0a298f978bb74b82f605d6624c8f9
+      internalID: -167276931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_263
+      rect:
+        serializedVersion: 2
+        x: 2708
+        y: 496
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59bff507637750418e2a2a298c58cfc
+      internalID: 1939084601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_264
+      rect:
+        serializedVersion: 2
+        x: 2872
+        y: 484
+        width: 397
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81daa4b5ed0b3974d9e514b6966a2a60
+      internalID: -1156377218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_265
+      rect:
+        serializedVersion: 2
+        x: 3389
+        y: 496
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d2265863c7cbe44863925903601344
+      internalID: -79729553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_266
+      rect:
+        serializedVersion: 2
+        x: 3536
+        y: 496
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb9845002a18e9458b31c817e45b06d
+      internalID: 483932536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_267
+      rect:
+        serializedVersion: 2
+        x: 3682
+        y: 496
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef7b8ce6bd505b449e3d84b4f8e931e
+      internalID: 822604291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_268
+      rect:
+        serializedVersion: 2
+        x: 3829
+        y: 496
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cdab22fd7fe39e48bed672f628df644
+      internalID: 519379214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_269
+      rect:
+        serializedVersion: 2
+        x: 3974
+        y: 496
+        width: 129
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d381d349453977648aec266af17892ac
+      internalID: -382446638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_270
+      rect:
+        serializedVersion: 2
+        x: 4123
+        y: 496
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8356985634e3e42955cb87a17758de
+      internalID: -424764909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_271
+      rect:
+        serializedVersion: 2
+        x: 4267
+        y: 496
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f853af36ce275ce4ab48ae7cfc80ce75
+      internalID: -141077814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_272
+      rect:
+        serializedVersion: 2
+        x: 4471
+        y: 484
+        width: 397
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5daccd5fb87f1de4b9f7e99493830fc9
+      internalID: 97276492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_273
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 351
+        width: 130
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498c723027a2ded4182ee97a44602f36
+      internalID: 992860983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_274
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 351
+        width: 130
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46bd61135ef871b4ba7be5a9bf27de35
+      internalID: -773026331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_275
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 351
+        width: 130
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c846767c16a42ad45a2f59874a0966d5
+      internalID: 1503995624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_276
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 351
+        width: 130
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4383e4e6677acd04e8586fff331ba34b
+      internalID: 1722175975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_277
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 351
+        width: 130
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b0a95c17987df40a69ab223f64c220
+      internalID: -1759907187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_278
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 351
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9f1ed67431d63498a1cc0dc5d1314d
+      internalID: 644190239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_279
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 351
+        width: 129
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0480775040b05a41aa43cb29a9e5905
+      internalID: 973162618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_280
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 334
+        width: 397
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c45ab18c1520944c8c382175678ad23
+      internalID: -508012947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_281
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 354
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b79de66cf4b6d643acfacdcd9e096d2
+      internalID: -1768818642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_282
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 354
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9c55fa25eb12d41833d02acdc3a3e4
+      internalID: -1211761655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_283
+      rect:
+        serializedVersion: 2
+        x: 2121
+        y: 354
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7ede82575de1e4bb4dd754db152000
+      internalID: -352900218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_284
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 354
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22e652e8fc00264eb1ce3ee82b3a09d
+      internalID: -1599402604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_285
+      rect:
+        serializedVersion: 2
+        x: 2417
+        y: 354
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a475ffd7a89b9542b521d21557ec309
+      internalID: 90156544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_286
+      rect:
+        serializedVersion: 2
+        x: 2562
+        y: 354
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a8c4786ac87334884e2e1fe899ecb8
+      internalID: -439330111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_287
+      rect:
+        serializedVersion: 2
+        x: 2708
+        y: 354
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b056261b3dc3ce49a709934c1237bd6
+      internalID: 352079704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_288
+      rect:
+        serializedVersion: 2
+        x: 2872
+        y: 334
+        width: 397
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49873408cc8214f43a222075dd11fb51
+      internalID: 274307794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_289
+      rect:
+        serializedVersion: 2
+        x: 3389
+        y: 354
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6227e6a1a6a31ad4c8012bf64918acce
+      internalID: -98545332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_290
+      rect:
+        serializedVersion: 2
+        x: 3536
+        y: 354
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca068a054c9ea643bbe0ec11a570d54
+      internalID: -702277292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_291
+      rect:
+        serializedVersion: 2
+        x: 3682
+        y: 354
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669952e184272234e9d846e40a6ee369
+      internalID: -253925296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_292
+      rect:
+        serializedVersion: 2
+        x: 3829
+        y: 354
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9237550d6ccf9fe4abbb319d4e718c07
+      internalID: -1597829427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_293
+      rect:
+        serializedVersion: 2
+        x: 3974
+        y: 354
+        width: 129
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3834bea38f83fb645b0deaff0525d4b6
+      internalID: 521699198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_294
+      rect:
+        serializedVersion: 2
+        x: 4123
+        y: 354
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80a8fb5c76432049a1d7eec0deda8e1
+      internalID: -130906808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_295
+      rect:
+        serializedVersion: 2
+        x: 4267
+        y: 354
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43958451781775544ab513434db5ee4e
+      internalID: -660035885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_296
+      rect:
+        serializedVersion: 2
+        x: 4471
+        y: 337
+        width: 397
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093650755f1c30d49b7d2484be6acbbd
+      internalID: -937953389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_297
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 207
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661eddfeec2682f45b768851e9fc69db
+      internalID: -888112433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_298
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 207
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4bf1c10a1355154780e1c78d974b335
+      internalID: 652101703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_299
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 207
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41fcddcd06c8ed43bf2ce8fe1aa0039
+      internalID: -1982036661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_300
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 207
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1476427d4888c4abba5309ff7dcf02
+      internalID: -1819875728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_301
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 207
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371644d03d85a5a4cac6c7355652b5f1
+      internalID: -700870307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_302
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 207
+        width: 133
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ba32aee95e5ec46a8a78a10b04d938
+      internalID: -474370300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_303
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 207
+        width: 129
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b128a5dd1b7f6974787b671a906edac5
+      internalID: -1057760940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_304
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 185
+        width: 397
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5ce48108099b54dafa9b7fb4a77fe9
+      internalID: -1954965453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_305
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 212
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e4e320a6acdf343aafcd005ab3fec9
+      internalID: -401986033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_306
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 212
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c1645e954404c45abd863e840b6fbe
+      internalID: -1502110360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_307
+      rect:
+        serializedVersion: 2
+        x: 2121
+        y: 212
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b8564d0f8635f4ebe819fb5d238d38
+      internalID: -105355896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_308
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 212
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869c3312c9bb1a642b651e6ce28e70d8
+      internalID: 1720383952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_309
+      rect:
+        serializedVersion: 2
+        x: 2417
+        y: 212
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b616fac7c718bb444b70853845e93eaa
+      internalID: 55557811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_310
+      rect:
+        serializedVersion: 2
+        x: 2562
+        y: 212
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ae19d6de83c844797a4448287c4cf7
+      internalID: -262881655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_311
+      rect:
+        serializedVersion: 2
+        x: 2708
+        y: 212
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab47d9b09a8dfc24489d6b09df8b865c
+      internalID: -1097191646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_312
+      rect:
+        serializedVersion: 2
+        x: 2872
+        y: 188
+        width: 397
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1149e7303d52cf4419031d611b737509
+      internalID: 590235210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_313
+      rect:
+        serializedVersion: 2
+        x: 3389
+        y: 212
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c74c86f7c9fe44b97547f48e2605bc
+      internalID: 519734376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_314
+      rect:
+        serializedVersion: 2
+        x: 3536
+        y: 212
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1547e81e691e1e944ba1fbb7396e73ad
+      internalID: 1561155180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_315
+      rect:
+        serializedVersion: 2
+        x: 3682
+        y: 212
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18be2ca076d340848a7e4f86b6d80eb9
+      internalID: -1422718167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_316
+      rect:
+        serializedVersion: 2
+        x: 3829
+        y: 212
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307599b2095df02489f10099a4f795e3
+      internalID: 572964989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_317
+      rect:
+        serializedVersion: 2
+        x: 3974
+        y: 212
+        width: 129
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eaae635df23e1b4a903f543156106a3
+      internalID: -448934958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_318
+      rect:
+        serializedVersion: 2
+        x: 4123
+        y: 212
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091ccf0a5ff5c0740b853237e51dadb2
+      internalID: -211754301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_319
+      rect:
+        serializedVersion: 2
+        x: 4267
+        y: 212
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f462dd988e1984b80384a69b413d7a
+      internalID: 1979857042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_320
+      rect:
+        serializedVersion: 2
+        x: 4471
+        y: 188
+        width: 397
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea971c4e2ff9ebe44bafbd9ccf105293
+      internalID: -1595717860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_321
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 67
+        width: 130
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef169d9f99ec8f24d8c07a8cd42f83ba
+      internalID: -192618197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_322
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 67
+        width: 130
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c61b9e8aefe984dab5d74f04dfe72e
+      internalID: 580889100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_323
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 67
+        width: 130
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f992c22eb9ca2e4f8142d1169accc13
+      internalID: 448944798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_324
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 67
+        width: 130
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ed271388565904188dc04cf3d11edf
+      internalID: 731058937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_325
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 67
+        width: 130
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd3c1106eb4e00448941e568834935e
+      internalID: -1973159394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_326
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 67
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb043be79b8f1541ad57271603a500b
+      internalID: 975448873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_327
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 67
+        width: 129
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783d6ce8f67300f40973ce4800b053ff
+      internalID: -1044775004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_328
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 70
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ded52fde538db644b00d9dbf0101933
+      internalID: 247220257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_329
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 70
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe3191eea7078e4882bf59f7de3c3b7
+      internalID: 973974045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_330
+      rect:
+        serializedVersion: 2
+        x: 2121
+        y: 70
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8366593b67c644bb6f7ab30c1ccc72
+      internalID: 865831146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_331
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 70
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48299f65b171f674cbe41aa429b667d5
+      internalID: -908179391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_332
+      rect:
+        serializedVersion: 2
+        x: 2417
+        y: 70
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca4b0fd54dfa0040a97d2ad27fa9d28
+      internalID: -1551481651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_333
+      rect:
+        serializedVersion: 2
+        x: 2562
+        y: 70
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27509dbd94e47964fa1ec827625c2a08
+      internalID: 1517134030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_334
+      rect:
+        serializedVersion: 2
+        x: 2708
+        y: 70
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458134f6324896d48a32ca1347bae9eb
+      internalID: 1630756867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_335
+      rect:
+        serializedVersion: 2
+        x: 3389
+        y: 70
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36aea0f800632ba4e81d02821fc5715a
+      internalID: 952886688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_336
+      rect:
+        serializedVersion: 2
+        x: 3536
+        y: 70
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac7bc373296e634692ec228496c5f65
+      internalID: 1482431766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_337
+      rect:
+        serializedVersion: 2
+        x: 3682
+        y: 70
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf9637aab07fb74c93043b805f371a7
+      internalID: 2045285151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_338
+      rect:
+        serializedVersion: 2
+        x: 3829
+        y: 70
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ef841608a097140b2389e5438ce30a
+      internalID: 1883850605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_339
+      rect:
+        serializedVersion: 2
+        x: 3974
+        y: 70
+        width: 129
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13eb4bd9ba1aa2c4fbead62968c04d1b
+      internalID: -913451157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_340
+      rect:
+        serializedVersion: 2
+        x: 4123
+        y: 70
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9a61a153a65b84d8863c8e86454736
+      internalID: -2037208253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameUIFREE_341
+      rect:
+        serializedVersion: 2
+        x: 4267
+        y: 70
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56527fb352050994da2ff4653f354a4a
+      internalID: -188206538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 70de236f459f4564bbf95734ad01d6fe
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GameUIFREE_0: 1211427413
+      GameUIFREE_1: -1400895397
+      GameUIFREE_10: 731344929
+      GameUIFREE_100: -1686843118
+      GameUIFREE_101: -1621342367
+      GameUIFREE_102: 1337499664
+      GameUIFREE_103: -796521851
+      GameUIFREE_104: -541423402
+      GameUIFREE_105: -384766155
+      GameUIFREE_106: -512240122
+      GameUIFREE_107: -121085901
+      GameUIFREE_108: -1532289826
+      GameUIFREE_109: 1387364244
+      GameUIFREE_11: 315000633
+      GameUIFREE_110: -1302979557
+      GameUIFREE_111: 259479489
+      GameUIFREE_112: -318685742
+      GameUIFREE_113: 515697915
+      GameUIFREE_114: -549327613
+      GameUIFREE_115: 1397573311
+      GameUIFREE_116: -1583611203
+      GameUIFREE_117: -1280624613
+      GameUIFREE_118: -508992541
+      GameUIFREE_119: 1587632803
+      GameUIFREE_12: -1929105490
+      GameUIFREE_120: -207019082
+      GameUIFREE_121: 1262292659
+      GameUIFREE_122: -1362751044
+      GameUIFREE_123: 1340178967
+      GameUIFREE_124: -1316419868
+      GameUIFREE_125: 558685729
+      GameUIFREE_126: -1527253621
+      GameUIFREE_127: -60247265
+      GameUIFREE_128: 1506977129
+      GameUIFREE_129: 1767507915
+      GameUIFREE_13: 625905078
+      GameUIFREE_130: -308803009
+      GameUIFREE_131: -1043625154
+      GameUIFREE_132: 2061932789
+      GameUIFREE_133: 1190678617
+      GameUIFREE_134: 1949149354
+      GameUIFREE_135: 208702207
+      GameUIFREE_136: 1722140206
+      GameUIFREE_137: -512393655
+      GameUIFREE_138: -1694400289
+      GameUIFREE_139: 112175650
+      GameUIFREE_14: 1558312731
+      GameUIFREE_140: 826678400
+      GameUIFREE_141: 1161036754
+      GameUIFREE_142: 305370263
+      GameUIFREE_143: -148032765
+      GameUIFREE_144: -1078350173
+      GameUIFREE_145: 306157413
+      GameUIFREE_146: -2012963563
+      GameUIFREE_147: 490898774
+      GameUIFREE_148: -775026603
+      GameUIFREE_149: -1522989701
+      GameUIFREE_15: -1423224888
+      GameUIFREE_150: 1844476466
+      GameUIFREE_151: 1486185611
+      GameUIFREE_152: 535288649
+      GameUIFREE_153: -1167153671
+      GameUIFREE_154: -688808072
+      GameUIFREE_155: -1360999470
+      GameUIFREE_156: 922222826
+      GameUIFREE_157: -1939273707
+      GameUIFREE_158: 853740244
+      GameUIFREE_159: 1462849465
+      GameUIFREE_16: 1697278658
+      GameUIFREE_160: -2086559039
+      GameUIFREE_161: 868242199
+      GameUIFREE_162: 694288556
+      GameUIFREE_163: 752519514
+      GameUIFREE_164: 2023356722
+      GameUIFREE_165: 904327060
+      GameUIFREE_166: 408035925
+      GameUIFREE_167: 1366146091
+      GameUIFREE_168: -919229815
+      GameUIFREE_169: -119022332
+      GameUIFREE_17: -1085980762
+      GameUIFREE_170: -1742628490
+      GameUIFREE_171: -673715450
+      GameUIFREE_172: 2022557824
+      GameUIFREE_173: 266641682
+      GameUIFREE_174: 2129481817
+      GameUIFREE_175: -1965916241
+      GameUIFREE_176: 581173750
+      GameUIFREE_177: 1611929766
+      GameUIFREE_178: 310383461
+      GameUIFREE_179: 1637958180
+      GameUIFREE_18: -1679715324
+      GameUIFREE_180: -76935699
+      GameUIFREE_181: -1912530388
+      GameUIFREE_182: 347668898
+      GameUIFREE_183: 1415863540
+      GameUIFREE_184: -1869421411
+      GameUIFREE_185: 794491113
+      GameUIFREE_186: 597934410
+      GameUIFREE_187: 375320343
+      GameUIFREE_188: -1346120373
+      GameUIFREE_189: 334992965
+      GameUIFREE_19: -1292822797
+      GameUIFREE_190: 522223820
+      GameUIFREE_191: -629009200
+      GameUIFREE_192: -1567049895
+      GameUIFREE_193: 709175883
+      GameUIFREE_194: -899267161
+      GameUIFREE_195: -1747002169
+      GameUIFREE_196: -124063185
+      GameUIFREE_197: 583226496
+      GameUIFREE_198: 2075830745
+      GameUIFREE_199: -1566204865
+      GameUIFREE_2: 2018958091
+      GameUIFREE_20: 1669574338
+      GameUIFREE_200: 1857252273
+      GameUIFREE_201: 87353316
+      GameUIFREE_202: -1236047224
+      GameUIFREE_203: -1066902489
+      GameUIFREE_204: -1100393227
+      GameUIFREE_205: 2096502856
+      GameUIFREE_206: 965475869
+      GameUIFREE_207: -548551505
+      GameUIFREE_208: -1273877836
+      GameUIFREE_209: 1315844377
+      GameUIFREE_21: 1577130670
+      GameUIFREE_210: -1390641092
+      GameUIFREE_211: -1669100241
+      GameUIFREE_212: -336169136
+      GameUIFREE_213: -1897641560
+      GameUIFREE_214: 664658908
+      GameUIFREE_215: -1058981876
+      GameUIFREE_216: 19066882
+      GameUIFREE_217: -2086113455
+      GameUIFREE_218: 1188450181
+      GameUIFREE_219: -1165060624
+      GameUIFREE_22: 576881987
+      GameUIFREE_220: 309129829
+      GameUIFREE_221: -1790885892
+      GameUIFREE_222: 1819850513
+      GameUIFREE_223: -1357943560
+      GameUIFREE_224: -1066656217
+      GameUIFREE_225: 1758912574
+      GameUIFREE_226: 1980908858
+      GameUIFREE_227: 1878324517
+      GameUIFREE_228: 699418719
+      GameUIFREE_229: -425379048
+      GameUIFREE_23: -1056692884
+      GameUIFREE_230: -722963239
+      GameUIFREE_231: 562883100
+      GameUIFREE_232: 1733008792
+      GameUIFREE_233: -1385174325
+      GameUIFREE_234: 1124558424
+      GameUIFREE_235: 1052926035
+      GameUIFREE_236: 1255278207
+      GameUIFREE_237: -1585734744
+      GameUIFREE_238: -762288224
+      GameUIFREE_239: 314647119
+      GameUIFREE_24: -1485220259
+      GameUIFREE_240: 196635683
+      GameUIFREE_241: -552243060
+      GameUIFREE_242: 220855108
+      GameUIFREE_243: 1554199532
+      GameUIFREE_244: 905037660
+      GameUIFREE_245: -1261169124
+      GameUIFREE_246: -1297474542
+      GameUIFREE_247: 424202234
+      GameUIFREE_248: 1783209003
+      GameUIFREE_249: -1984824519
+      GameUIFREE_25: 2060375885
+      GameUIFREE_250: -36276919
+      GameUIFREE_251: -2006163468
+      GameUIFREE_252: 1231313335
+      GameUIFREE_253: 1728833387
+      GameUIFREE_254: -241370717
+      GameUIFREE_255: -1030763834
+      GameUIFREE_256: 117202718
+      GameUIFREE_257: 1253132661
+      GameUIFREE_258: 773698665
+      GameUIFREE_259: 999900582
+      GameUIFREE_26: 1344752735
+      GameUIFREE_260: -1905490864
+      GameUIFREE_261: -1369011539
+      GameUIFREE_262: -167276931
+      GameUIFREE_263: 1939084601
+      GameUIFREE_264: -1156377218
+      GameUIFREE_265: -79729553
+      GameUIFREE_266: 483932536
+      GameUIFREE_267: 822604291
+      GameUIFREE_268: 519379214
+      GameUIFREE_269: -382446638
+      GameUIFREE_27: 1428780637
+      GameUIFREE_270: -424764909
+      GameUIFREE_271: -141077814
+      GameUIFREE_272: 97276492
+      GameUIFREE_273: 992860983
+      GameUIFREE_274: -773026331
+      GameUIFREE_275: 1503995624
+      GameUIFREE_276: 1722175975
+      GameUIFREE_277: -1759907187
+      GameUIFREE_278: 644190239
+      GameUIFREE_279: 973162618
+      GameUIFREE_28: 1033270465
+      GameUIFREE_280: -508012947
+      GameUIFREE_281: -1768818642
+      GameUIFREE_282: -1211761655
+      GameUIFREE_283: -352900218
+      GameUIFREE_284: -1599402604
+      GameUIFREE_285: 90156544
+      GameUIFREE_286: -439330111
+      GameUIFREE_287: 352079704
+      GameUIFREE_288: 274307794
+      GameUIFREE_289: -98545332
+      GameUIFREE_29: -123721846
+      GameUIFREE_290: -702277292
+      GameUIFREE_291: -253925296
+      GameUIFREE_292: -1597829427
+      GameUIFREE_293: 521699198
+      GameUIFREE_294: -130906808
+      GameUIFREE_295: -660035885
+      GameUIFREE_296: -937953389
+      GameUIFREE_297: -888112433
+      GameUIFREE_298: 652101703
+      GameUIFREE_299: -1982036661
+      GameUIFREE_3: -761363868
+      GameUIFREE_30: -1419637403
+      GameUIFREE_300: -1819875728
+      GameUIFREE_301: -700870307
+      GameUIFREE_302: -474370300
+      GameUIFREE_303: -1057760940
+      GameUIFREE_304: -1954965453
+      GameUIFREE_305: -401986033
+      GameUIFREE_306: -1502110360
+      GameUIFREE_307: -105355896
+      GameUIFREE_308: 1720383952
+      GameUIFREE_309: 55557811
+      GameUIFREE_31: 255136999
+      GameUIFREE_310: -262881655
+      GameUIFREE_311: -1097191646
+      GameUIFREE_312: 590235210
+      GameUIFREE_313: 519734376
+      GameUIFREE_314: 1561155180
+      GameUIFREE_315: -1422718167
+      GameUIFREE_316: 572964989
+      GameUIFREE_317: -448934958
+      GameUIFREE_318: -211754301
+      GameUIFREE_319: 1979857042
+      GameUIFREE_32: 894239242
+      GameUIFREE_320: -1595717860
+      GameUIFREE_321: -192618197
+      GameUIFREE_322: 580889100
+      GameUIFREE_323: 448944798
+      GameUIFREE_324: 731058937
+      GameUIFREE_325: -1973159394
+      GameUIFREE_326: 975448873
+      GameUIFREE_327: -1044775004
+      GameUIFREE_328: 247220257
+      GameUIFREE_329: 973974045
+      GameUIFREE_33: 860109697
+      GameUIFREE_330: 865831146
+      GameUIFREE_331: -908179391
+      GameUIFREE_332: -1551481651
+      GameUIFREE_333: 1517134030
+      GameUIFREE_334: 1630756867
+      GameUIFREE_335: 952886688
+      GameUIFREE_336: 1482431766
+      GameUIFREE_337: 2045285151
+      GameUIFREE_338: 1883850605
+      GameUIFREE_339: -913451157
+      GameUIFREE_34: 336422382
+      GameUIFREE_340: -2037208253
+      GameUIFREE_341: -188206538
+      GameUIFREE_35: 1462085167
+      GameUIFREE_36: -614043
+      GameUIFREE_37: -1507743752
+      GameUIFREE_38: 250426942
+      GameUIFREE_39: 79048328
+      GameUIFREE_4: 1219121483
+      GameUIFREE_40: -273555430
+      GameUIFREE_41: -452398283
+      GameUIFREE_42: -825369903
+      GameUIFREE_43: 343961132
+      GameUIFREE_44: 586384504
+      GameUIFREE_45: 1810886232
+      GameUIFREE_46: 1437236423
+      GameUIFREE_47: 2068675293
+      GameUIFREE_48: 327400573
+      GameUIFREE_49: 1875125426
+      GameUIFREE_5: 1466068104
+      GameUIFREE_50: 1142051640
+      GameUIFREE_51: -1449011346
+      GameUIFREE_52: 2106964486
+      GameUIFREE_53: 1587423003
+      GameUIFREE_54: -1202628129
+      GameUIFREE_55: 1130597939
+      GameUIFREE_56: 1367204706
+      GameUIFREE_57: 1446878765
+      GameUIFREE_58: -1811763036
+      GameUIFREE_59: 1931141538
+      GameUIFREE_6: -357703353
+      GameUIFREE_60: -2021994843
+      GameUIFREE_61: -2050483798
+      GameUIFREE_62: -1223492903
+      GameUIFREE_63: 1115564748
+      GameUIFREE_64: -863279083
+      GameUIFREE_65: 61086039
+      GameUIFREE_66: -375009723
+      GameUIFREE_67: 766448839
+      GameUIFREE_68: -1949422219
+      GameUIFREE_69: -140458011
+      GameUIFREE_7: -2015723384
+      GameUIFREE_70: -2115027955
+      GameUIFREE_71: 1427843707
+      GameUIFREE_72: -1159537816
+      GameUIFREE_73: 1321052767
+      GameUIFREE_74: -995391605
+      GameUIFREE_75: -1954893424
+      GameUIFREE_76: -505052409
+      GameUIFREE_77: -1713930976
+      GameUIFREE_78: 174499016
+      GameUIFREE_79: -1094113972
+      GameUIFREE_8: -1603657635
+      GameUIFREE_80: 817863094
+      GameUIFREE_81: 481665563
+      GameUIFREE_82: 691822626
+      GameUIFREE_83: -1595384715
+      GameUIFREE_84: 763037703
+      GameUIFREE_85: -1902964179
+      GameUIFREE_86: 137786150
+      GameUIFREE_87: 2094306990
+      GameUIFREE_88: 417629287
+      GameUIFREE_89: 2003806080
+      GameUIFREE_9: -494470302
+      GameUIFREE_90: -1037064911
+      GameUIFREE_91: 1667183503
+      GameUIFREE_92: -1596829699
+      GameUIFREE_93: 791111175
+      GameUIFREE_94: 1459908253
+      GameUIFREE_95: -1203291792
+      GameUIFREE_96: -1113268331
+      GameUIFREE_97: -555056901
+      GameUIFREE_98: 396019993
+      GameUIFREE_99: 1931120428
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
